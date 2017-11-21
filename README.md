@@ -1,2 +1,2 @@
 # Contosso-News
-Contosso news html page
+'Contosso news html page'
